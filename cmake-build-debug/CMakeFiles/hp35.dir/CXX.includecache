@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Flinders/Computer programming 2/Practicals/hp-35/hp-35.cpp
+iostream
+-
+sstream
+-
+string
+-
+cmath
+-
+
